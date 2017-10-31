@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><!-- >=== #123467 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="@dimen/tab_view_height"
+    android:orientation="vertical">
+
+    <com.dattien.tabmenu.tabview.FormTabView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.dattien.tabmenu.tabview.FlingRecycleView
+        android:id="@+id/rcv_tabbar_manga"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:clipChildren="true"
+        android:clipToPadding="true">
+
+    </com.dattien.tabmenu.tabview.FlingRecycleView>
+
+    <RelativeLayout
+        android:layout_width="@dimen/pedestal_view_width"
+        android:layout_height="@dimen/pedestal_view_height"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/tab_view_margin_right"
+        android:layout_marginLeft="@dimen/tab_view_margin_right"
+        android:rotation="-10">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_pedestal_bottom" />
+
+        <com.dattien.tabmenu.tabview.PedestalTabView
+            android:id="@+id/pedestal_left"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/tab_view_margin_left">
+
+        </com.dattien.tabmenu.tabview.PedestalTabView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/tab_view_margin_left"
+            android:background="@drawable/ic_pedestal_top"
+            android:clickable="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="@dimen/pedestal_view_width"
+        android:layout_height="@dimen/pedestal_view_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/tab_view_margin_right"
+        android:layout_marginRight="@dimen/tab_view_margin_right"
+        android:paddingTop="@dimen/tab_view_margin_left"
+        android:rotation="10">
+
+        <com.dattien.tabmenu.tabview.PedestalTabView
+            android:id="@+id/pedestal_right"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.dattien.tabmenu.tabview.PedestalTabView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_pedestal_top"
+            android:clickable="true" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img12344"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="gone"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:background="@color/tabbar_chapter" />
+
+
+</RelativeLayout><!-- <=== #123467 -->

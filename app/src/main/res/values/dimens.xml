@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default font size for English and English-like scripts. -->
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+    <dimen name="text_size_subheading">16sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_headline">24sp</dimen>
+
+    <!-- Enhanced font size for dense scripts (Chinese, Japanese, and Korean). -->
+    <dimen name="text_size_caption_cjk">13sp</dimen>
+    <dimen name="text_size_body_cjk">15sp</dimen>
+    <dimen name="text_size_subheading_cjk">17sp</dimen>
+    <dimen name="text_size_title_cjk">21sp</dimen>
+    <dimen name="text_size_headline_cjk">24sp</dimen>
+
+    <!-- height of a normal list item in edit playlist mode -->
+    <dimen name="normal_height">100dip</dimen>
+    <!-- height of an expanded list item in edit playlist mode -->
+    <dimen name="expanded_height">128dip</dimen>
+    <dimen name="min_height">50dip</dimen>
+    <dimen name="shelf_tool_bar_height">45dip</dimen>
+    <dimen name="shelf_icon_size">56dip</dimen>
+    <dimen name="shelf_check_icon_size">30dip</dimen>
+    <dimen name="shelf_cover_grid_height">105dp</dimen>
+    <dimen name="shelf_cover_grid_height_diff">16dp</dimen>
+    <dimen name="shelf_cover_grid_margin_left">10dp</dimen>
+    <dimen name="shelf_cover_grid_margin_top">9dp</dimen>
+    <dimen name="shelf_cover_grid_margin_bottom">4dip</dimen> <!--custom #123442 -->
+    <dimen name="shelf_cover_grid_cover_margin_bottom">0dip</dimen>
+    <dimen name="shelf_cover_grid_series_title_text_size">10dip</dimen>
+    <dimen name="shelf_list_button_width">65dp</dimen>
+    <dimen name="shelf_list_button_height">29dp</dimen>
+    <dimen name="shelf_list_item_height">125dp</dimen>
+    <dimen name="shelf_margin">40dp</dimen>
+    <dimen name="shelf_cloud_btn_width">147dip</dimen>
+    <dimen name="news_terop_height">25dip</dimen>
+    <dimen name="small_text_size">10dp</dimen>
+    <dimen name="default_text_size">12dp</dimen>
+    <dimen name="large_text_size">16dp</dimen>
+    <dimen name="default_button_height">30dp</dimen>
+    <dimen name="buttom_tool_bar_height">50dip</dimen>
+    <dimen name="buttom_tool_bar_width">50dip</dimen>
+    <dimen name="buttom_tool_bar_height2">70dip</dimen>
+    <dimen name="too_long_button_width">150dip</dimen>
+    <dimen name="top_newstelop_height">42dip</dimen>
+    <dimen name="detail_description_text_size">14dp</dimen>
+    <dimen name="ellipsize_more_text_size">16dp</dimen>
+
+    <dimen name="productlist_item_height">117dip</dimen>
+    <dimen name="productlist_description_text_size">12dp</dimen>
+    <dimen name="productlist_subscription_price_text_size">5sp</dimen>
+    <dimen name="productlist_title_text_size">17dip</dimen>
+    <dimen name="productlist_author_text_size">12dip</dimen>
+    <dimen name="productlist_author_margin_top">4dip</dimen>
+    <dimen name="productlist_author_margin_bottom">11dip</dimen>
+    <dimen name="productlist_coverimage_width">80dip</dimen>
+    <dimen name="productlist_coverimage_height">117dip</dimen>
+    <dimen name="productlist_coverimage_margin_top">6dip</dimen>
+    <dimen name="productlist_coverimage_margin_bottom">6dip</dimen>
+    <dimen name="productlist_coverimage_margin_left">12dip</dimen>
+    <dimen name="productlist_coverimage_margin_right">4dip</dimen>
+    <dimen name="productlist_button_width">65dp</dimen>
+    <dimen name="productlist_button_height">29dp</dimen>
+    <dimen name="productlist_button_margin_left">12dip</dimen>
+    <dimen name="productlist_button_margin_right">12dip</dimen>
+    <dimen name="productlist_category_icon_width">76dip</dimen>
+    <dimen name="productlist_category_icon_height">19dip</dimen>
+    <dimen name="productlist_category_icon_margin_top">11dip</dimen>
+    <dimen name="productlist_category_icon_margin_bottom">4dip</dimen>
+
+    <dimen name="page_swicher_left_padding">10dip</dimen>
+    <dimen name="description_right_margin">7dp</dimen>
+    <dimen name="description_left_margin">7dp</dimen>
+<!--    <dimen name="description_right_margin">7dp</dimen>-->
+	<dimen name="webview_fotter_image_size">35dp</dimen>
+    <dimen name="list_title_font_size">18sp</dimen>
+    <dimen name="list_description_font_size">12sp</dimen>
+    <dimen name="default_title_height">60dp</dimen> <!-- custom #42818 -->
+    <dimen name="default_title_text_size">20sp</dimen>
+    <dimen name="cover_shadow_size">4dp</dimen>
+    <dimen name="viewer_slider_nob_height">40dip</dimen>
+    <dimen name="viewer_slider_nob_width">100dip</dimen>
+        <dimen name="viewer_slider_text_top_margin">5dip</dimen>
+    <dimen name="viewer_seekbar_padding">50dip</dimen>
+    <dimen name="viewer_seekbar_padding_for_page_history">105dip</dimen>
+    <dimen name="viewer_seekbar_margin">0dip</dimen>
+    <dimen name="viewer_seekbar_margin_bottom">-35dip</dimen>
+<!--    <dimen name="viewer_seekbar_margin_bottom">0dip</dimen>-->
+    <dimen name="viewer_seekbar_layout_height">110dip</dimen>
+    <dimen name="viewer_seekbar_layout_width">116dip</dimen>
+    <dimen name="viewer_seekbar_thumb_offset">50dip</dimen>
+    <dimen name="viewer_seekbar_bg_height">35dip</dimen>
+    <dimen name="viewer_seekbar_bg_margin">40dip</dimen>
+    <dimen name="viewer_epubcomic_interpage_space">30dip</dimen>
+    <dimen name="rss_textview_text_scroll_speed">3dip</dimen>
+    <dimen name="default_button_text_size">8dp</dimen>
+    <dimen name="downloading_button_text_size">6dp</dimen>
+    <dimen name="download_button_text_size">5dp</dimen>
+    <dimen name="default_listview_divider_height">1dp</dimen>
+    <dimen name="news_text_size">10dp</dimen>
+    <dimen name="default_price_button_width">20dp</dimen> <!-- custom #43187 -->
+
+    <dimen name="detail_sub_contents_list_button_width">90dp</dimen>
+    <dimen name="detail_price_button_width">84dp</dimen>
+    <dimen name="detail_button_width">158dp</dimen>
+    <dimen name="detail_button_height">40dp</dimen>
+    <dimen name="search_category_text_size">14dp</dimen>
+    <dimen name="search_category_list_item_height">22dp</dimen>
+    <dimen name="page_switcher_height">160dip</dimen>
+    <dimen name="page_switcher_image_height">145dip</dimen>
+    <dimen name="page_switcher_pdf_image_height">145dip</dimen>
+    <dimen name="search_result_height">48dip</dimen>
+    <dimen name="search_result_icon_width">35dip</dimen>
+    <dimen name="promotion_padding_value">2dip</dimen>
+    <dimen name="title_search_result_two_lines_title_size">15sp</dimen>
+    <dimen name="title_search_result_two_lines_author_size">8sp</dimen>
+    <dimen name="detail_title_area_height">66dp</dimen>
+    <dimen name="detail_author_area_height">32dp</dimen>
+    <dimen name="detail_description_area_height">168dp</dimen>
+    <dimen name="detail_type_icon_area_height">12dp</dimen>
+    <dimen name="detail_about_subscription_text_size">5sp</dimen>
+    <dimen name="cover_gallery_spacing">5dp</dimen>
+    <dimen name="eula_title_text_size">14sp</dimen>
+    <dimen name="eula_title_text_size_xlarge">22sp</dimen>
+    <dimen name="eula_message_text_size">12sp</dimen>
+    <dimen name="eula_message_text_size_xlarge">18sp</dimen>
+    <dimen name="eula_accept_button_text_size">20sp</dimen>
+    <dimen name="eula_accept_button_text_size_xlarge">26sp</dimen>
+    <dimen name="eula_accept_button_height">50dp</dimen>
+    <dimen name="eula_accept_button_height_xlarge">70dp</dimen>
+
+    <dimen name="purchase_history_top_btn_margin_right">5dp</dimen>
+    <dimen name="purchase_history_text_size_title">14dp</dimen>
+    <dimen name="purchase_history_text_size_author">10dp</dimen>
+    <dimen name="purchase_history_text_size_price_and_date">10dp</dimen>
+    <dimen name="purchase_history_text_size_btn_download">11dp</dimen>
+    <dimen name="purchase_history_text_size_btn_finish_download">10dp</dimen>
+    <dimen name="purchase_history_text_size_btn_downloading">14dp</dimen>
+    <dimen name="purchase_history_item_info_padding_top">0dp</dimen>
+    <dimen name="purchase_history_item_info_padding_bottom">0dp</dimen>
+    <dimen name="purchase_history_item_info_padding_left">0dp</dimen>
+    <dimen name="purchase_history_author_margin_left">10dp</dimen>
+    <dimen name="purchase_history_price_and_date_margin_top">2dp</dimen>
+    <dimen name="purchase_history_minwidth_btn_download">90dp</dimen>
+    <dimen name="purchase_history_check_icon_size">@dimen/shelf_check_icon_size</dimen>
+    <dimen name="purchase_history_check_icon_margin_right">5dp</dimen>
+    <dimen name="purchase_history_download_button_width">90dp</dimen>
+    <dimen name="purchase_history_download_button_height">29dp</dimen>
+    <dimen name="purchase_history_download_button_margin_right">10dp</dimen>
+    <dimen name="purchase_history_download_button_margin_left">10dp</dimen>
+    <dimen name="purchase_history_category_icon_width">76dp</dimen>
+    <dimen name="purchase_history_category_icon_height">19dp</dimen>
+    <dimen name="purchase_history_category_icon_margin_top">10dp</dimen>
+
+    <dimen name="tap_area_indicator_explanation_text_size">14dp</dimen>
+    <dimen name="tap_area_indicator_explanation_text_size_xlarge">22dp</dimen>
+    <dimen name="setting_toggle_text_size">17px</dimen>
+    <dimen name="setting_toggle_indicator_side_margin">8dip</dimen>
+    <dimen name="setting_toggle_indicator_bottom_margin">2dp</dimen>
+    <dimen name="category_text_size">14dp</dimen>
+    <dimen name="purchase_history_sub_content_padding_left">20dip</dimen>
+    <dimen name="radio_button_badge_margin_right">-3dip</dimen>
+    <dimen name="radio_button_badge_margin_top">-5dip</dimen>
+    <!-- For pull-to-refresh -->
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="main_flick_scroll_loopable_tab_height">29dp</dimen>
+    <dimen name="centerProgressSize">64dp</dimen>
+    <dimen name="store_flick_scroll_title_height">52dp</dimen>
+    <dimen name="main_drawer_menu_icon_margin_left">8dp</dimen>
+    <dimen name="main_drawer_menu_width">280dp</dimen>
+    <dimen name="main_drawer_list_item_min_height">48dp</dimen>
+    <dimen name="main_drawer_list_item_text_size">20sp</dimen>
+    <dimen name="main_drawer_list_item_padding_left">16dp</dimen>
+    <dimen name="main_drawer_list_category_text_size">16sp</dimen>
+    <dimen name="main_drawer_list_category_padding_left">16dp</dimen>
+    <dimen name="main_search_icon_margin_right">8dip</dimen>
+
+    <!-- >=== #41735 -->
+    <dimen name="bookshelf_button_width">52dip</dimen>
+    <dimen name="bookshelf_button_height">52dip</dimen>
+    <!-- <=== #41735 -->
+    <dimen name="bookshelf_button_margin_right">7dip</dimen>
+    <dimen name="bookshelf_button_margin_bottom">7dip</dimen>
+
+    <!-- >=== #42983 -->
+    <dimen name="main_header_height">60dp</dimen>
+    <!-- <=== #42983 -->
+
+    <dimen name="main_flick_scroll_tab_height">32dp</dimen>
+    <dimen name="main_flick_scroll_tab_text_size">11dp</dimen>
+    <dimen name="main_flick_scroll_tab_text_padding_left">5dp</dimen>
+    <dimen name="main_flick_scroll_tab_text_padding_right">5dp</dimen>
+    <dimen name="main_flick_scroll_tab_indicator_height">3dp</dimen>
+    <dimen name="main_flick_scroll_tab_bottom_border_height">1dp</dimen>
+    <dimen name="store_error_view_message_margin">20dp</dimen>
+
+    <dimen name="toolbar_menu_width">24dp</dimen>
+    <dimen name="toolbar_menu_height">24dp</dimen>
+    <dimen name="account_auth_default_button_min_height">40dp</dimen>
+    <dimen name="shelf_edit_button_padding">10dp</dimen>
+
+    <dimen name="setting_preference_min_height">48dip</dimen>
+    <dimen name="search_list_item_min_height">48dip</dimen>
+
+    <dimen name="default_button_bookmark_height">40dip</dimen>
+
+    <dimen name="textsize_search_index_normal">14dp</dimen>
+    <dimen name="textsize_search_index_selected">16dp</dimen>
+
+    <dimen name="purchase_history_coin_text_width">60dp</dimen>
+    <dimen name="purchase_history_coin_size">20dp</dimen>
+    <dimen name="layout_tutorial_skip_margin_right">9dp</dimen>
+    <dimen name="layout_tutorial_skip_text_view_margin_right">6dp</dimen>
+    <dimen name="layout_tutorial_skip_text_view_size">10dp</dimen>
+
+    <!-- >=== #41023 -->
+    <dimen name="top_coin_balance_text_size">11dp</dimen>
+    <dimen name="top_coin_balance_text_size_small">9dp</dimen>
+    <dimen name="top_coin_balance_text_size_more_small">7dp</dimen>
+    <!-- <=== #41023 -->
+
+    <dimen name="layout_tutorial_circle_size">12dp</dimen> <!-- custom #41013 -->
+
+    <!-- >=== #41735 -->
+    <dimen name="series_select_text_size">11dp</dimen>
+    <!-- >=== #42822 -->
+    <dimen name="series_select_title_margin_top">7dp</dimen>
+    <dimen name="series_select_line_margin_bottom">14dp</dimen>
+    <!-- <=== #42822 -->
+    <dimen name="series_select_line_margin_left">30dp</dimen>
+    <dimen name="series_select_line_margin_right">30dp</dimen>
+    <dimen name="series_select_cancel_button_width">@dimen/bookshelf_button_width</dimen>
+    <dimen name="series_select_cancel_button_height">@dimen/bookshelf_button_height</dimen>
+    <dimen name="series_select_cancel_button_margin_right">@dimen/bookshelf_button_margin_right</dimen>
+    <dimen name="series_select_cancel_button_margin_bottom">@dimen/bookshelf_button_margin_bottom</dimen>
+    <!-- <=== #41735 -->
+
+    <!-- >=== #41412 #123442 #126843-->
+    <dimen name="mypage_coin_value_text_size">14sp</dimen>
+    <dimen name="mypage_coin_value_text_size_small">12sp</dimen>
+    <dimen name="mypage_coin_value_text_size_more_small">9sp</dimen>
+    <!-- <=== #41412 #123442 #126843-->
+    <dimen name="mypage_gridview_min_height">110dip</dimen> <!-- custom #43115 -->
+
+    <dimen name="series_volume_grid_view_item_height">200dp</dimen> <!-- custom #43183 -->
+    <!-- >=== #47443 -->
+    <dimen name="series_episode_margin_horizontal">16dp</dimen>
+    <dimen name="series_episode_margin_vertical">24dp</dimen>
+    <!-- >=== #47443 -->
+
+    <!-- >=== #41071 #41737 #42406 #42690 -->
+    <!-- For Material Design guidelines. We should use the AppCompat theme and remove these values. -->
+    <!-- But... some values are modified for Hanadan customize. -->
+    <dimen name="generic_horizontal_margin">12dp</dimen><!-- Normally 16dp -->
+    <dimen name="generic_vertical_margin">8dp</dimen><!-- Normally 8dp -->
+
+    <dimen name="generic_list_item_height_1">60dp</dimen><!-- Normally 56dp -->
+    <dimen name="generic_list_item_height_2">72dp</dimen>
+    <dimen name="generic_list_item_height_3">88dp</dimen>
+    <dimen name="generic_list_header_height">32dp</dimen>
+    <dimen name="generic_list_divider_size">1dp</dimen>
+
+    <dimen name="toolbar_height">60dp</dimen><!-- Normally 56dp (or 48dp-TabLayout) -->
+    <dimen name="toolbar_horizontal_margin">4dp</dimen>
+    <dimen name="toolbar_divider_size">1dp</dimen>
+    <dimen name="toolbar_button_size">48dp</dimen>
+    <dimen name="toolbar_button_margin">8dp</dimen>
+    <dimen name="toolbar_title_size">20sp</dimen>
+
+    <dimen name="button_height">40dp</dimen><!-- Normally 36dp -->
+    <dimen name="button_minimum_width">88dp</dimen>
+    <dimen name="button_horizontal_margin">8dp</dimen>
+    <dimen name="button_horizontal_padding">16dp</dimen>
+    <dimen name="dense_button_height">32dp</dimen>
+    <dimen name="dense_button_minimum_width">88dp</dimen>
+    <dimen name="dense_button_horizontal_margin">8dp</dimen>
+    <dimen name="dense_button_horizontal_padding">16dp</dimen>
+    <dimen name="flat_button_height">36dp</dimen>
+    <dimen name="flat_button_minimum_width">64dp</dimen>
+    <dimen name="flat_button_horizontal_margin">8dp</dimen>
+    <dimen name="flat_button_horizontal_padding">8dp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="dialog_button_top_margin">24dp</dimen>
+    <dimen name="dialog_button_text_size">14sp</dimen>
+    <!-- <=== #41071 #41737 #42406 #42690 -->
+
+    <dimen name="tab_bar_height">48dp</dimen>
+    <dimen name="tab_bar_tab_padding">4dp</dimen>
+    <dimen name="tab_bar_icon_size">24dp</dimen>
+    <dimen name="tab_bar_text_size">12sp</dimen>
+
+    <dimen name="text_size_extra_small">10sp</dimen>
+    <dimen name="text_size_extra_small_cjk">11sp</dimen>
+    <dimen name="app_bar_shadow_size">5dp</dimen>
+    <dimen name="list_progress_bar_size">64dp</dimen>
+    <dimen name="list_footer_banner_height">59dp</dimen>
+
+    <dimen name="series_margin_horizontal">16dp</dimen>
+    <dimen name="series_margin_vertical">24dp</dimen>
+
+    <dimen name="series_header_vertical_space">4dp</dimen>
+    <dimen name="list_item_title_start_margin">16dp</dimen>
+    <dimen name="list_item_update_label_text_size_cjk">11sp</dimen>
+
+    <dimen name="before_next_animator_padding_buttom">70dp</dimen>
+
+    <dimen name="end_page_webview_half_size_width_margin">5dp</dimen>
+    <dimen name="vertical_end_page_webview_flick_min_distance">10dp</dimen>
+
+    <dimen name="setting_takeover_sub_title_text_size">13sp</dimen>
+    <dimen name="setting_takeover_heading_text_size">13sp</dimen>
+    <dimen name="setting_takeover_text_box_text_size">15sp</dimen>
+    <dimen name="setting_takeover_hint_text_size">10sp</dimen>
+    <dimen name="setting_takeover_button_text_size">15sp</dimen>
+    <dimen name="setting_takeover_margin_left">20dp</dimen>
+    <dimen name="setting_takeover_margin_right">20dp</dimen>
+    <dimen name="setting_takeover_sub_title_margin_top">20dp</dimen>
+    <dimen name="setting_takeover_sub_title_margin_bottom">20dp</dimen>
+    <dimen name="setting_takeover_heading_margin_top">5dp</dimen>
+    <dimen name="setting_takeover_heading_margin_bottom">5dp</dimen>
+
+    <!-- >=== #123673 #123442-->
+    <dimen name="naruto_top_coin_balance_text_size">14dp</dimen>
+    <dimen name="naruto_top_coin_balance_text_size_small">12dp</dimen>
+    <dimen name="naruto_top_coin_balance_text_size_more_small">11dp</dimen>
+    <!-- <=== #123673 #123442-->
+
+    <!-- >=== #123455 #123467-->
+    <!--Chapter tab view-->
+    <dimen name="tab_view_height">100dp</dimen>
+    <dimen name="tab_view_margin_left">10dp</dimen>
+    <dimen name="tab_view_margin_right">-5dp</dimen>
+    <dimen name="item_tab_view">70dp</dimen>
+    <dimen name="pedestal_view_width">25dp</dimen>
+    <dimen name="pedestal_view_height">80dp</dimen>
+    <!--Chapter fragment-->
+    <dimen name="chapter_fragment_tab_height">40dp</dimen>
+    <dimen name="chapter_fragment_tab_margin_top">50dp</dimen>
+    <dimen name="tab_bar_item_size">50dp</dimen>
+    <!--Item episode-->
+    <dimen name="item_episode_height">80dp</dimen>
+    <dimen name="item_episode_width">100dp</dimen>
+    <dimen name="item_episode_margin_left">20dp</dimen>
+    <dimen name="item_episode_margin_right">10dp</dimen>
+    <dimen name="item_episode_margin_top">5dp</dimen>
+    <dimen name="item_episode_padding">10dp</dimen>
+    <dimen name="item_episode_text_size_title">14sp</dimen>
+    <dimen name="item_episode_text_size_name">16sp</dimen>
+    <dimen name="item_episode_text_size_des">20sp</dimen>
+    <dimen name="item_episode_button_width">70dp</dimen>
+    <dimen name="item_episode_button_height">40dp</dimen>
+    <dimen name="item_episode_img_height">30dp</dimen>
+    <dimen name="item_episode_button_margin">3dp</dimen>
+    <!-- <=== #123455 #123467-->
+    <!-->=== #123442 -->
+    <dimen name="naruto_shelf_tool_bar_height">55dip</dimen>
+    <!--<=== #123442 -->
+
+    <!-- >=== #123432-->
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="padding_larger">20dp</dimen>
+    <dimen name="width_drawer_stub">250dp</dimen>
+    <dimen name="width_image_cover">85dp</dimen>
+    <dimen name="height_image_cover">55dp</dimen>
+    <dimen name="min_height_bottom_drawer">35dp</dimen>
+    <dimen name="min_width_divider_left">6dp</dimen>
+    <dimen name="min_width_item_chapter">70dp</dimen>
+    <dimen name="min_width_item_episode">40dp</dimen>
+    <!-- <=== #123432 -->
+</resources>

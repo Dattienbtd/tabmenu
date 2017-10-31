@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="status_bar_color">#febb0b</color> <!-- add #123278-->
+
+    <!-- >=== #123455 -->
+    <color name="tabbar_chapter">#FF033F23</color>
+    <color name="text_chapter">#3e3a39</color>
+    <color name="bg_btn_free">#8f94a8</color>
+    <!-- <=== #123455 -->
+</resources>

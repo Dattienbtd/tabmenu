@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- >=== #123455 -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="@dimen/pedestal_view_width"
+        android:layout_height="@dimen/item_tab_view"
+        android:background="@drawable/ic_pedestal"/>
+
+</LinearLayout>
+    <!-- <=== #123455 -->
